@@ -12,3 +12,4 @@ variable "sku_name" {}
 variable "kvt_secret_value" {}
 variable "kvt_secret_name" {}
 
+#test comment
