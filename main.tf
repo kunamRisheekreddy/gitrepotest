@@ -20,9 +20,6 @@ resource "azurerm_key_vault" "kvt" {
       "Get", "Set"
     ]
 
-    storage_permissions = [
-      "Get", "Set"
-    ]
   }
 }
 
